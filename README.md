@@ -16,7 +16,7 @@ Harmony is a lightweight, high-performance, terminal-based file search utility. 
 ## Requirements
 
 - Python 3.7+
-- `textual` package
+- textual package
 
 ## Installation
 
