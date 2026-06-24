@@ -7,7 +7,6 @@ Harmony is a lightweight, high-performance, terminal-based file search utility. 
 - **Fast Indexing**: Uses SQLite FTS5 with trigram tokenization for lightning-fast search results, even across large filesystems.
 - **Terminal Interface**: A clean, distraction free interface built with textual that stays out of your way.
 - **Deep Search**: Indexes your system from the root, ensuring you can find any file, anywhere.
-- **Cross-Platform**: Designed to work on Windows, macOS, and Linux.
 - **Smart Actions**: 
     - Press `Enter` to open the selected file/application.
     - Press `Ctrl+O` to open the parent folder in your system file explorer.
